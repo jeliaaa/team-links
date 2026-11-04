@@ -1,5 +1,4 @@
-# team-links
-Team Members information
+## Dachi Kurtskhalia
+Front-End Web Development student at Skillwill.
 
 
-In here we will upload information about ourselves.
