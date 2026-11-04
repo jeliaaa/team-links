@@ -3,3 +3,7 @@ Team Members information
 
 
 In here we will upload information about ourselves.
+
+## Vakhtang Melikidze
+- Full-Stack .NET Developer.
+- Git Resource: [Pro Git Book](https://git-scm.com/book/en/v2)
