@@ -1,6 +1,11 @@
+
 # team-links
 Team Members information
 In here we will upload information about ourselves.
+
+#Dachi Kurtskhalia
+Front-End Web Development student at Skillwill.
+
 
 Zura, Front-end developer student, https://foloda.github.io/Login-Page/
 
