@@ -29,3 +29,7 @@ https://github.com/jeliaaa/team-links
 ## Salome Tsnobiladze
 - Frontend Web Development Student.
 - Git Resource: [Git Documentation](https://git-scm.com/doc)
+
+### Natali Shanava
+- **About:** Front-end developer learning Angular & web development.
+- **GitHub profile:** [GitHub](https://github.com/natalish01)
