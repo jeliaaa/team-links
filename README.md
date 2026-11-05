@@ -25,3 +25,7 @@ Bagrat_404
 I am the one who knoks
 https://github.com/jeliaaa/team-links
 
+
+## Salome Tsnobiladze
+- Frontend Web Development Student.
+- Git Resource: [Git Documentation](https://git-scm.com/doc)
